@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 This is a Group chat messaging app 
 I used Firebase as the DataBase in this application 
